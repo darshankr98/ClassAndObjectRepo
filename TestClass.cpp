@@ -32,5 +32,4 @@ int main()
     int x = s.a;
     cout<<x<<endl;
     return 0;
-    cout<<"Hello";
 }
