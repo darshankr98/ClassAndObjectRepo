@@ -58,4 +58,10 @@ int main(){
     for(int i =0;i<5;i++){
         cout<<x[i]<<"\t";
     }
+   //Type Conversion Starts
+    int m;
+    float y = 3.2345;
+    m = y;
+    cout<<"\n"<<m<<"\n";
+    //Type Conversion Ends
 }
